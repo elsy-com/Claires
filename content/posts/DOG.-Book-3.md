@@ -9,4 +9,4 @@ gallery:
 - /images/DOG-BOOK-3-IMAGES/Rear-Cover.png
 draft: false
 ---
-Dog decided to search for his book.. but where will that journey take him?
+In the third book of the series, Dog decided to search for his book.. but where will that journey take him?

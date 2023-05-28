@@ -9,4 +9,4 @@ gallery:
 - /images/DOG-BOOK-5-IMAGES/Rear-Cover.png
 draft: false
 ---
-After forgiving the cat of their crime, Dog runs into yet another issue!
+In the fifth book of the series, Dog runs into yet another problem!
