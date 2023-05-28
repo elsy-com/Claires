@@ -52,7 +52,7 @@ canonifyurls = true
   # gravatarEmail = "elly@ellysev.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn4.iconfinder.com/data/icons/vegetables-97/200/Strawberry-1024.png"
+  picture = "/images/Strawberry-1024.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -97,7 +97,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/elsy-com/Claires"
 [[menu.links]]
   weight = 2
   identifier = "stackoverflow"
