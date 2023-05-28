@@ -1,6 +1,6 @@
 ---
 title: "[DOG.] Book 2 - Stolen"
-date: 2023-05-26T21:42:16-07:00
+date: 2023-05-26T21:02:16-07:00
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-2-IMAGES/Thumbnail.png
 gallery: 

@@ -1,6 +1,6 @@
 ---
 title: "[DOG.] Book 4 - Infuriating Discovery"
-date: 2023-05-26T21:42:16-07:00
+date: 2023-05-26T21:04:16-07:00
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-4-IMAGES/Thumbnail.png
 gallery: 

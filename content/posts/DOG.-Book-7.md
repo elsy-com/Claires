@@ -1,6 +1,6 @@
 ---
 title: "[DOG.] Book 7 - Plotting"
-date: 2023-05-26T21:42:16-07:00
+date: 2023-05-26T21:07:16-07:00
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-7-IMAGES/Thumbnail.png
 gallery: 
