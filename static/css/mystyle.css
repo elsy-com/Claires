@@ -1,4 +1,5 @@
 #sidebar .sidebar-profile .sidebar-profile-name,
-#sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link {
+#sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link,
+#sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-bio, #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-job, #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-location {
     color: rgb(247, 56, 104);
 }
