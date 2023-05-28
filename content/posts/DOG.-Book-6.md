@@ -9,4 +9,4 @@ gallery:
 - /images/DOG-BOOK-6-IMAGES/Rear-Cover.png
 draft: false
 ---
-In the sixth book of the series, The Cat and Dog finally made it to the safety of Dog's house.. but then a TRAGEDY occurs.
+In the sixth book of the DOG. series, The Cat and Dog finally made it to the safety of Dog's house.. but then a TRAGEDY occurs.

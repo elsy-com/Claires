@@ -9,4 +9,4 @@ gallery:
 - /images/DOG-BOOK-5-IMAGES/Rear-Cover.png
 draft: false
 ---
-In the fifth book of the series, Dog runs into yet another problem!
+In the fifth book of the DOG. series, Dog runs into yet another problem!
