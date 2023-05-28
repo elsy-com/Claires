@@ -9,4 +9,4 @@ gallery:
 - /images/DOG-BOOK-ONE-IMAGES/Rear-Cover.png
 draft: false
 ---
-In this first book of the dog series, you will be introduced to the main character! 
+In this first book of the dog series, you will be introduced to the main character.
