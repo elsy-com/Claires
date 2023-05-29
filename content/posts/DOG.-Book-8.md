@@ -2,7 +2,7 @@
 title: "[DOG.] Book 8 - Breaking & Entering"
 date: 2023-05-26T21:07:16-08:00
 categories:
-  - Dog.
+  - DOG
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-8-IMAGES/Thumbnail.png
 gallery: 
