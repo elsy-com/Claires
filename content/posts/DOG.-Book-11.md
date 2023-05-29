@@ -1,5 +1,5 @@
 ---
-title: "[DOG.] Book 11 - Jail"
+title: "[DOG.] Book 11 - Jailbreak"
 date: 2023-05-26T21:07:16-10:00
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-11-IMAGES/Thumbnail.png
