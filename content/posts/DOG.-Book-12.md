@@ -1,6 +1,6 @@
 ---
 title: "[DOG.] Book 12 - Stamps"
-date: 2023-05-26T21:07:16-11:00
+date: 2023-05-26T21:12:16-11:00
 categories:
   - DOG
 thumbnailImagePosition: left

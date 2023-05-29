@@ -1,6 +1,6 @@
 ---
 title: "[DOG.] Book 11 - Jailbreak"
-date: 2023-05-26T21:07:16-10:00
+date: 2023-05-26T21:11:16-10:00
 categories:
   - DOG
 thumbnailImagePosition: left

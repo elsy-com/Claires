@@ -1,6 +1,6 @@
 ---
 title: "[DOG.] Book 8 - Breaking & Entering"
-date: 2023-05-26T21:07:16-08:00
+date: 2023-05-26T21:08:16-08:00
 categories:
   - DOG
 thumbnailImagePosition: left
