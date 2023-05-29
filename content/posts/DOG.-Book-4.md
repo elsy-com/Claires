@@ -9,4 +9,4 @@ gallery:
 - /images/DOG-BOOK-4-IMAGES/Rear-Cover.png
 draft: false
 ---
-In the fourth book of the DOG. series, Dog has found the theif of his precious book.. and he is MAD!
+In the fourth book of the DOG. series, Dog has found the thief of his precious book.. and he is MAD!
