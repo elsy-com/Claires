@@ -9,4 +9,4 @@ gallery:
 - /images/DOG-BOOK-9-IMAGES/Rear-Cover.png
 draft: true
 ---
-In the eighth ninth of the DOG. series, Dog continues his quest to save The Cat, but encounters a problem..
+In the ninth of the DOG. series, Dog continues his quest to save The Cat, but encounters a problem..
