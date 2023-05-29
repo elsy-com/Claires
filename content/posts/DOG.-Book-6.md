@@ -1,6 +1,8 @@
 ---
 title: "[DOG.] Book 6 - Captured"
 date: 2023-05-26T21:06:16-07:00
+categories:
+  - Dog.
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-6-IMAGES/Thumbnail.png
 gallery: 
