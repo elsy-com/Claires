@@ -1,6 +1,8 @@
 ---
 title: "[DOG.] Book 10 - Jail"
 date: 2023-05-26T21:07:16-09:00
+categories:
+  - Dog.
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-10-IMAGES/Thumbnail.png
 gallery: 

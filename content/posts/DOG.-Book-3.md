@@ -1,6 +1,8 @@
 ---
 title: "[DOG.] Book 3 - Searching"
 date: 2023-05-26T21:03:16-07:00
+categories:
+  - Dog.
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-3-IMAGES/Thumbnail.png
 gallery: 
