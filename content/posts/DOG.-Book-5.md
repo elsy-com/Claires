@@ -2,7 +2,7 @@
 title: "[DOG.] Book 5 - RUN!!"
 date: 2023-05-26T21:05:16-07:00
 categories:
-  - Dog.
+  - DOG
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-5-IMAGES/Thumbnail.png
 gallery: 

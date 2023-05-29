@@ -2,7 +2,7 @@
 title: "[DOG.] Book 9 - Foiled"
 date: 2023-05-26T21:07:16-09:00
 categories:
-  - Dog.
+  - DOG
 thumbnailImagePosition: left
 thumbnailImage: /images/DOG-BOOK-9-IMAGES/Thumbnail.png
 gallery: 
