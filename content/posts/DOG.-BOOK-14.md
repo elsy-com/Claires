@@ -1,6 +1,6 @@
 ---
 title: "[DOG.] Book 14 - The End"
-date: 2023-05-26T21:13:16-11:00
+date: 2023-05-26T21:14:16-11:00
 categories:
   - DOG
 thumbnailImagePosition: left
